@@ -1,0 +1,1 @@
+Example of using external resource in groovy scripts and providing it in jenkins agents. 
