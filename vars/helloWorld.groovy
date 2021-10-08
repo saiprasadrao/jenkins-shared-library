@@ -1,3 +1,3 @@
-call(){
-    sh "hello world...."
+def call(){
+    sh "echo hello world...."
 }
